@@ -49,7 +49,7 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 
 ## 📬 Contact Me  
 📩 Email: barokar.aditya1807@gmail.com  
-📸 Instagram: [@your_instagram](https://www.instagram.com/adi_._b?igsh=bDVzMHYwY2F5OWFm)  
+📸 Instagram: [@adi_._b](https://www.instagram.com/adi_._b?igsh=bDVzMHYwY2F5OWFm)
 🔗 GitHub: [github.com/Tengen-12](https://github.com/Tengen-12)  
 
 ---
