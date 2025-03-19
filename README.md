@@ -24,6 +24,11 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 
 ---
 
+## 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
 ## 🎯 Projects & Contributions  
 - **Ethigotchi** – AI-powered wireless security companion (Inspired by Pwnagotchi).  
 - **GRC Security Dashboard** – A Governance, Risk & Compliance tool for security teams.  
