@@ -24,11 +24,6 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 
 ---
 
-## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tengen-12&show_icons=true&theme=radical)
-
----
-
 ## 🎯 Projects & Contributions  
 - **Ethigotchi(WiFU)** – AI-powered wireless security companion (Inspired by Pwnagotchi).  
 - **Cybersecurity Threat Intelligence Dashboard** – A real-time web-based dashboard for visualizing cybersecurity threats.  
@@ -61,3 +56,15 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 
 ### 🎯 **Let’s Connect & Build Something Amazing!** 🚀  
 If you’re interested in **collaborations, security research, or tech discussions**, feel free to reach out!
+
+---
+
+## 🚀 My GitHub Profile Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tengen-12&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tengen-12&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tengen-12&layout=compact&theme=tokyonight)
+
+---
