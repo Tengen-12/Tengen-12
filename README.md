@@ -19,7 +19,7 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 ✅ **Networking:** TCP/IP, Firewalls, Wi-Fi Security  
 ✅ **Penetration Testing:** Web App Security, Reverse Shells, Payload Development  
 ✅ **Programming & Scripting:** Python, SQL, Bash (Basic)  
-✅ **Security Tools:** Nmap, Wireshark, Metasploit, Burp Suite  
+✅ **Security Tools:** Nmap, Wireshark, Metasploit
 ✅ **Version Control:** Git & GitHub  
 
 ---
@@ -30,9 +30,9 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 ---
 
 ## 🎯 Projects & Contributions  
-- **Ethigotchi** – AI-powered wireless security companion (Inspired by Pwnagotchi).  
-- **GRC Security Dashboard** – A Governance, Risk & Compliance tool for security teams.  
-- **Web Scraping & Auto-Session Termination** – Security automation using Python.  
+- **Ethigotchi(WiFU)** – AI-powered wireless security companion (Inspired by Pwnagotchi).  
+- **Cybersecurity Threat Intelligence Dashboard** – A real-time web-based dashboard for visualizing cybersecurity threats.  
+- **Web Scraping Tool(ScrapeMEE)** – Security automation using Python.  
 
 🔗 **Explore my projects here:** [GitHub Repositories](https://github.com/Tengen-12)  
 
@@ -40,7 +40,7 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 
 ## 📜 Certifications & Achievements  
 🎓 **Networking & Cybersecurity Basics – Cisco & Forage (TATA)**  
-🎓 **Certified Ethical Hacking (CEH) – Learning in progress**  
+🎓 **Ethical Hacking – Cisco & Welt Edu Learn**  
 🎓 **CCNA & Networking Essentials – Learning in progress**  
 
 ---
@@ -53,11 +53,11 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 ---
 
 ## 📬 Contact Me  
-📩 Email: barokar.aditya1807@gmail.com  
-📸 Instagram: [@adi_._b](https://www.instagram.com/adi_._b?igsh=bDVzMHYwY2F5OWFm)  
-🔗 GitHub: [github.com/Tengen-12](https://github.com/Tengen-12)  
+**📩 Email:** barokar.aditya1807@gmail.com  
+**📸 Instagram:** [@adi_._b](https://www.instagram.com/adi_._b?igsh=bDVzMHYwY2F5OWFm)  
+**🔗 GitHub:** [github.com/Tengen-12](https://github.com/Tengen-12)  
 
 ---
 
 ### 🎯 **Let’s Connect & Build Something Amazing!** 🚀  
-If you’re interested in **collaborations, security research, or tech discussions**, feel free to reach out!  
+If you’re interested in **collaborations, security research, or tech discussions**, feel free to reach out!
