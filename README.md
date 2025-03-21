@@ -25,7 +25,7 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tengen-12&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya_Barokar&show_icons=true&theme=radical)
 
 ---
 
