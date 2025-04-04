@@ -19,7 +19,7 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 ✅ **Networking:** TCP/IP, Firewalls, Wi-Fi Security  
 ✅ **Penetration Testing:** Web App Security, Reverse Shells, Payload Development  
 ✅ **Programming & Scripting:** Python, SQL, Bash (Basic)  
-✅ **Security Tools:** Nmap, Wireshark, Metasploit 
+✅ **Security Tools:** Nmap, Wireshark, Metasploit  
 ✅ **Version Control:** Git & GitHub  
 
 ---
