@@ -60,10 +60,10 @@ If you’re interested in **collaborations, security research, or tech discussio
 
 ## 🚀 My GitHub Profile Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tengen-12&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tengen-12&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tengen-12&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tengen-12&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tengen-12&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tengen-12&layout=compact&theme=tokyonight)  
 
 ---
