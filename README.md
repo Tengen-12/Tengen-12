@@ -29,7 +29,7 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 - **Cybersecurity Threat Intelligence Dashboard** – A real-time web-based dashboard for visualizing cybersecurity threats.  
 - **Web Scraping Tool(ScrapeMEE)** – Security automation using Python.  
 
-🔗 **Explore my projects here:** [GitHub Repositories](https://github.com/Tengen-12)  
+🔗 **Explore my projects here:** [GitHub Repositories](https://github.com/Tengen-12?tab=repositories)  
 
 ---
 
