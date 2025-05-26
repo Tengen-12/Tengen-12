@@ -35,8 +35,7 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 
 ## 📜 Certifications & Achievements  
 🎓 **Networking & Cybersecurity Basics – Cisco & Forage (TATA)**  
-🎓 **Ethical Hacking – Cisco & Welt Edu Learn**  
-🎓 **CCNA & Networking Essentials – Learning in progress**  
+🎓 **Ethical Hacking – Cisco & Welt Edu Learn** 
 
 ---
 
