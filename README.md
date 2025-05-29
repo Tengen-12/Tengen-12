@@ -66,6 +66,6 @@ If you’re interested in **collaborations, security research, or tech discussio
 
 ## TryHackMe Stats
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1607293" style='border:none;'></iframe>
+![Tryhackme Stats](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1607293" style='border:none;'></iframe>)
 
 ---
