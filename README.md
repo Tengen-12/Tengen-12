@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aditya Barokar!  
 
-## 🛡️ Cybersecurity Analyst | Penetration Tester | Tech Enthusiast  
+## 🛡️ Cybersecurity Analyst | Penetration Tester | Security Engineer  
 
 Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration Tester** with a strong foundation in **Networking, Windows Server Administration, and Linux**. I love working on security research, ethical hacking, and system protection.  
 
@@ -19,7 +19,7 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 ✅ **Networking:** TCP/IP, Firewalls, Wi-Fi Security  
 ✅ **Penetration Testing:** Web App Security, Reverse Shells, Payload Development  
 ✅ **Programming & Scripting:** Python, SQL, Bash (Basic)  
-✅ **Security Tools:** Nmap, Wireshark, Metasploit  
+✅ **Security Tools:** Nmap, Wireshark, Metasploit, Splunk  
 ✅ **Version Control:** Git & GitHub  
 
 ---
@@ -27,7 +27,8 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 ## 🎯 Projects & Contributions  
 - **Ethigotchi(WiFU)** – AI-powered wireless security companion (Inspired by Pwnagotchi).  
 - **Cybersecurity Threat Intelligence Dashboard** – A real-time web-based dashboard for visualizing cybersecurity threats.  
-- **Web Scraping Tool(ScrapeMEE)** – Security automation using Python.  
+- **Web Scraping Tool(ScrapeMEE)** – Security automation using Python.
+- **SIEM Dashboard** - A full-stack Security Information and Event Management (SIEM) Dashboard built to monitor, visualize, and analyze system logs and security events in real time.
 
 🔗 **Explore my projects here:** [GitHub Repositories](https://github.com/Tengen-12?tab=repositories)  
 
