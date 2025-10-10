@@ -53,11 +53,6 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 
 ---
 
-## 🎯 **Let’s Connect & Build Something Amazing!** 🚀  
-If you’re interested in **collaborations, security research, or tech discussions**, feel free to reach out!
-
----
-
 ## 🚀 My GitHub Profile Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tengen-12&show_icons=true&theme=radical) 
@@ -67,3 +62,6 @@ If you’re interested in **collaborations, security research, or tech discussio
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tengen-12&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ---
+
+## 🎯 **Let’s Connect & Build Something Amazing!** 🚀  
+If you’re interested in **collaborations, security research, or tech discussions**, feel free to reach out!
