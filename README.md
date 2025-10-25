@@ -54,12 +54,13 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 ---
 
 ## 🚀 My GitHub Profile Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tengen-12&layout=compact&theme=radical) 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tengen-12&show_icons=true&theme=radical) 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tengen-12&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tengen-12&show_icons=true&theme=radical)   
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tengen-12&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tengen-12&bg_color=0d1117&color=0ea5e9&line=3b82f6&point=0ea5e9&area=true&area_color=0ea5e9&hide_border=true" alt="Contribution Graph" />
 
 ---
 
