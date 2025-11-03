@@ -1,10 +1,6 @@
-# 👋 Hello, I'm Aditya Barokar!  
-
-## 🛡️ Cybersecurity Analyst | Penetration Tester | Security Engineer  
-
-Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration Tester** with a strong foundation in **Networking, Windows Server Administration, and Linux**. I love working on security research, ethical hacking, and system protection.  
-
----
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F400&random=true&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Aditya+Barokar!)](https://git.io/typing-svg)
 
 ## 🚀 About Me  
 🔹 **Cybersecurity & Ethical Hacking** – Passionate about securing networks and applications.  
@@ -59,6 +55,8 @@ Welcome to my GitHub! I am a passionate **Cybersecurity Analyst and Penetration 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tengen-12&show_icons=true&theme=radical)   
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tengen-12&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tengen-12&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tengen-12&bg_color=0d1117&color=0ea5e9&line=3b82f6&point=0ea5e9&area=true&area_color=0ea5e9&hide_border=false" alt="Contribution Graph" />
 
