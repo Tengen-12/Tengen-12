@@ -21,10 +21,10 @@
 ---
 
 ## 🎯 Projects & Contributions  
-- **Ethigotchi(WiFU)** – AI-powered wireless security companion (Inspired by Pwnagotchi).  
-- **Cybersecurity Threat Intelligence Dashboard** – A real-time web-based dashboard for visualizing cybersecurity threats.  
-- **Web Scraping Tool(ScrapeMEE)** – Security automation using Python.
-- **SIEM Dashboard** - A full-stack Security Information and Event Management (SIEM) Dashboard built to monitor, visualize, and analyze system logs and security events in real time.
+ **Ethigotchi(WiFU)** – AI-powered wireless security companion (Inspired by Pwnagotchi).  
+ **Cybersecurity Threat Intelligence Dashboard** – A real-time web-based dashboard for visualizing cybersecurity threats.  
+ **Web Scraping Tool(ScrapeMEE)** – Security automation using Python.
+ **SIEM Dashboard** - A full-stack Security Information and Event Management (SIEM) Dashboard built to monitor, visualize, and analyze system logs and security events in real time.
 
 🔗 **Explore my projects here:** [GitHub Repositories](https://github.com/Tengen-12?tab=repositories)  
 
