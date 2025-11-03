@@ -30,19 +30,6 @@
 
 ---
 
-## 📜 Certifications & Achievements  
-🎓 **Networking & Cybersecurity Basics – Cisco & Forage (TATA)**  
-🎓 **Ethical Hacking – Cisco & Welt Edu Learn** 
-
----
-
-## 🎮 Hobbies & Interests  
-⚡ Playing **Cricket** 🏏  
-📖 Reading **Manga & Tech Blogs** 📚  
-🔍 Exploring **Cybersecurity Trends**  
-
----
-
 ## 📬 Contact Me  
 **📩 Email:** barokar.aditya1807@gmail.com  
 **📸 Instagram:** [@adi_._b](https://www.instagram.com/adi_._b?igsh=bDVzMHYwY2F5OWFm) 
