@@ -41,7 +41,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tengen-12&show_icons=true&theme=radical)   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tengen-12&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tengen-12&theme=tokyonight&hide_border=false)](https://git.io/streak-stats) 
 
 <img src="https://github-profile-trophy.vercel.app/?username=Tengen-12&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
